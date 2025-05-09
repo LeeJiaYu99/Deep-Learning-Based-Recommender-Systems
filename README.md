@@ -1,7 +1,7 @@
 # Deep Learning Based Recommender System
 This notebook is to learn about how deep learning approaches are used in recommender models. 
 
-Courtesy of the learning materials by @lazyprogrammer and @Chinmayrane16, this notebook is referenced from the content of the following repositories:
+Courtesy of the learning materials by @[lazyprogrammer](https://github.com/lazyprogrammer) and @[Chinmayrane16](https://github.com/Chinmayrane16), this notebook is referenced from the content of the following repositories:
 - https://github.com/lazyprogrammer/machine_learning_examples/tree/master/recommenders
 
 - https://github.com/Chinmayrane16/Recommender-Systems-with-Collaborative-Filtering-and-Deep-Learning-Techniques/tree/master
